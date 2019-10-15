@@ -1,0 +1,18 @@
+# IDE working files
+*.iws
+*.ipr
+*.iml
+.idea/
+.apk
+.settings
+.project
+.classpath
+.log
+
+
+# Build directories
+distrib/
+target/
+tmp/
+gen-external-apklibs/
+out/
